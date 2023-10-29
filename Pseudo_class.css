@@ -1,0 +1,20 @@
+h1{
+    color: blue;
+}
+
+p:hover{
+color: grey;
+}
+
+a{
+    color: gray;
+}
+
+a:visited{
+    color: orange;
+}
+
+img:hover{
+    display: none;
+    
+}

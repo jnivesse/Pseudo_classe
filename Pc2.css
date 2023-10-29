@@ -1,0 +1,13 @@
+li:nth-child(even){
+
+color: blue;
+}
+
+li:nth-child(2n):hover{
+    color: black;
+}
+
+li:nth-child(odd):hover{
+
+    color: blue;
+}
